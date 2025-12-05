@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Project_B.Achievement">
+    <Position X="2.5" Y="6.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggEQAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Achievement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Project_B.DigitalGame">
+    <Position X="6.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAACAAAAAAAAAAAIAAAAAAAAAAEAAgQ=</HashCode>
+      <FileName>DigitalGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.GameItem">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAEEACAAAAAAAAAAAAAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>GameItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.GameLibrary">
+    <Position X="0.5" Y="9.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAgAAACAAAAQAAAQAAAAAACAAACAAAAA=</HashCode>
+      <FileName>GameLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.GameSession">
+    <Position X="5.75" Y="10.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACgAAAAAAAAAAIIAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.OnlineGame">
+    <Position X="2.5" Y="4.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAACAA=</HashCode>
+      <FileName>OnlineGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.PhysicalGame">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAACAAAAAAAAgAAAAAAAAAAAAAAAEgQ=</HashCode>
+      <FileName>PhysicalGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.Platform">
+    <Position X="6.75" Y="8.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.Program">
+    <Position X="6.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAIAAAAQAACgAAgAAACDAABICgEBABCAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_B.VideoGame">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAgAAAAAAkREgAMgAAAgAAAAAIAACAAgAAgAIBA=</HashCode>
+      <FileName>VideoGame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Project_B.IPlayable">
+    <Position X="4" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPlayable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Project_B.Genre">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAIAAAAAAAAAABAAAAAAAAAEAAgAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
